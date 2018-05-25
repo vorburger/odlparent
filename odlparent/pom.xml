@@ -810,7 +810,7 @@
       <dependency>
         <groupId>io.aeron</groupId>
         <artifactId>aeron-client</artifactId>
-        <version>1.7.0</version>
+        <version>1.9.3</version>
       </dependency>
       <dependency>
         <groupId>io.aeron</groupId>
