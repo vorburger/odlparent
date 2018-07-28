@@ -943,7 +943,7 @@
       <dependency>
         <groupId>org.eclipse.jetty</groupId>
         <artifactId>jetty-servlets</artifactId>
-        <version>9.3.21.v20170918</version>
+        <version>9.4.11.v20180605</version>
       </dependency>
       <dependency>
         <groupId>org.eclipse.jetty</groupId>
