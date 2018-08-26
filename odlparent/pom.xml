@@ -54,7 +54,7 @@
     <!-- Used in neutron, ovsdb -->
     <jacoco.version>0.8.1</jacoco.version>
     <!-- Used in controller, genius, infrautils, netconf, netvirt, ovsdb, serviceutils -->
-    <karaf.version>4.2.0</karaf.version>
+    <karaf.version>4.2.1</karaf.version>
     <!-- Used in bgpcep, lispflowmapping -->
     <projectinfo>2.8.1</projectinfo>
 
