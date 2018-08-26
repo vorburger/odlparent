@@ -52,7 +52,7 @@
     <!-- Used in controller, infrautils, openflowplugin -->
     <exam.version>4.12.0</exam.version>
     <!-- Used in neutron, ovsdb -->
-    <jacoco.version>0.8.1</jacoco.version>
+    <jacoco.version>0.8.2</jacoco.version>
     <!-- Used in controller, genius, infrautils, netconf, netvirt, ovsdb, serviceutils -->
     <karaf.version>4.2.0</karaf.version>
     <!-- Used in bgpcep, lispflowmapping -->
