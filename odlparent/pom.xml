@@ -781,7 +781,7 @@
       <dependency>
         <groupId>io.aeron</groupId>
         <artifactId>aeron-client</artifactId>
-        <version>1.9.3</version>
+        <version>1.11.0</version>
       </dependency>
       <dependency>
         <groupId>io.aeron</groupId>
