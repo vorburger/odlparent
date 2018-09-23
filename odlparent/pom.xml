@@ -792,7 +792,7 @@
       <dependency>
         <groupId>io.aeron</groupId>
         <artifactId>aeron-driver</artifactId>
-        <version>1.9.3</version>
+        <version>1.11.1</version>
       </dependency>
 
       <!-- Scala -->
