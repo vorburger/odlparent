@@ -503,7 +503,7 @@
         <artifactId>netty-all</artifactId>
         <!-- If these are updated, the version in features.xml needs to be changed too -->
         <!-- When bumping this version, remember to also change the JavaDoc link in odlparent-lite -->
-        <version>4.1.28.Final</version>
+        <version>4.1.29.Final</version>
       </dependency>
       <dependency>
         <groupId>io.netty</groupId>
