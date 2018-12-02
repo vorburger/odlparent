@@ -853,7 +853,7 @@
       <dependency>
         <groupId>org.ops4j.pax.exam</groupId>
         <artifactId>pax-exam-features</artifactId>
-        <version>4.12.0</version>
+        <version>4.13.0</version>
         <type>xml</type>
         <scope>test</scope>
       </dependency>
