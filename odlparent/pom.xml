@@ -715,7 +715,7 @@
         <groupId>org.osgi</groupId>
         <!-- for https://bugs.opendaylight.org/show_bug.cgi?id=4290 -->
         <artifactId>org.osgi.service.event</artifactId>
-        <version>1.3.1</version>
+        <version>1.4.0</version>
       </dependency>
       <dependency>
         <groupId>org.apache.aries.quiesce</groupId>
