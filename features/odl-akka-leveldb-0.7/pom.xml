@@ -41,7 +41,7 @@
         <dependency>
             <groupId>org.iq80.leveldb</groupId>
             <artifactId>leveldb</artifactId>
-            <version>0.7</version>
+            <version>0.11</version>
             <exclusions>
               <exclusion>
                 <!-- To avoid classpath duplicates, because leveldbjni-all shades a (not bit identical version of) the 13 API classes in org.iq80.leveldb -->
